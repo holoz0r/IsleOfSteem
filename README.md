@@ -6,8 +6,9 @@ How to play:
 1. Go to: http://www.rpgmakerweb.com/download/additional/run-time-packages
 2. Select RPG Maker VX Ace
 3. Install this on your computer
-4. Download the Contents of the Repository, from the version you wish to play.
-5. Extract this somewhere on your computer.
+4. Download the entire folder of the version which you wish to play.
+    Currently, the latest version is v0.001
+5. Put this somewhere on your computer.
 6. Run Game.Exe to play
 
 Controls:
