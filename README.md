@@ -1,8 +1,23 @@
 # IsleOfSteem
 A terrible game, developed using RPG Maker VX Ace, based on the Steem blockchain.
+# ---------
 
-How to play:
+# Introduction
 
+From the moment you set foot on the Isle of Steem, people have been telling you to be careful. Things aren't behaving. Something is  wrong with the Block Chain. 
+
+Docile creatures are attacking anything that moves. 
+People scared and confused.  
+
+For years, the witnesses have been silent.  
+
+The pleas of the common folk remain unanswered. What is the cause of this corruption, and how will the world mend?
+
+Are you the hero that will save Steem?
+
+# ---------
+# How to play:
+---------
 1. Go to: http://www.rpgmakerweb.com/download/additional/run-time-packages
 2. Select RPG Maker VX Ace
 3. Install this on your computer
