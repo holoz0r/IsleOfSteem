@@ -22,7 +22,7 @@ Are you the hero that will save Steem?
 2. Select RPG Maker VX Ace
 3. Install this on your computer
 4. Download the entire folder of the version which you wish to play.
-    Currently, the latest version is v0.001
+    The latest version will always be the one with the largest number.
 5. Put this somewhere on your computer.
 6. Run Game.Exe to play
 
