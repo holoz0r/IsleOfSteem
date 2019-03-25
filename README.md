@@ -32,7 +32,7 @@ Use the arrow keys on your keyboard to move.
 Enter interacts with opbjects within the world.
 Escape brings up the menu.
 
-This game remains in pre-pre-pre-pre-Alpha state, and is in ongoing development. 
+Development of this game is now abandoned by @holoz0r
 
 If you want to make suggestions, contact me on 
 
